@@ -2,6 +2,6 @@
 
 - Thirawat
  - Captain
- - ![Captain](2.png)
+![Captain](2.png)
 
 
