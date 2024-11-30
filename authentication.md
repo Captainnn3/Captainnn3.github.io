@@ -1,3 +1,3 @@
-1.Risk
-1.perth
-1.captain
+1. Risk
+1. perth
+1. captain
