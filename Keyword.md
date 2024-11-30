@@ -40,7 +40,7 @@
 
 ---
 
-🚀 ####[Perth’s Page][(https://teamgamer11.github.io/risk.html]
+🚀 ####[Perth’s Page](https://teamgamer11.github.io/risk.html)
 
 
 
