@@ -2,7 +2,7 @@
 
 - Thirawat
  - Captain
-![Captain](IMG_5285.jpeg)
+![Captain](picture/IMG_5285.jpeg)
 
 [Risk](Risk)
 #### [Perth](https://teamgamer11.github.io)
