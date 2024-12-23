@@ -1,5 +1,5 @@
 # 🎅
 
-![Cm](pic/download.png)
+![Cm](picture/chirstmas.png)
 
-[กลับหน้าแรก](https://deldel-p.github.io)
+[กลับหน้าแรก](https://Captainnn3.github.io)
