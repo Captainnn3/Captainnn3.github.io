@@ -6,7 +6,7 @@
 
 [Risk](Risk)
 
-[chirstmas](chirstmas)
+[chirstmas](card.md)
 #### [Perth](https://teamgamer11.github.io)
 
 
