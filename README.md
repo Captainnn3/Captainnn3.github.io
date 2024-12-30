@@ -7,7 +7,8 @@
 [Risk](Risk)
 
 [chirstmas](card.md)
-#### [Perth](https://teamgamer11.github.io)
+
+#### [Data Quality](duplicate-data.md)
 
 
 
