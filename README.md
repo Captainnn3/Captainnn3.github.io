@@ -12,5 +12,7 @@
 
 [Data Quality](duplicate-data.md)
 
+[2025 PAO Elections](pao-elections.md)
+
 
 
