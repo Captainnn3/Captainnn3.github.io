@@ -14,5 +14,7 @@
 
 [2025 PAO Elections](pao-elections.md)
 
+[Security Requirements](security-requirements.md)
+
 
 
