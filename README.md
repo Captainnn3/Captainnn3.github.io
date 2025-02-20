@@ -8,7 +8,9 @@
 
 [chirstmas](card.md)
 
-#### [Data Quality](duplicate-data.md)
+[Security Control](security-control.md)
+
+[Data Quality](duplicate-data.md)
 
 
 
